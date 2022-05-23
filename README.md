@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# UI FORM APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is the ui form with 3 feilds, prepopulated data from fetch, includes form validations, submit and reset button.
 ## Available Scripts
 
 In the project directory, you can run:
