@@ -1,6 +1,9 @@
 # UI FORM APP
 
 This project is the ui form with 3 feilds, prepopulated data from fetch, includes form validations, submit and reset button.
+
+<img width="1792" alt="Screenshot 2022-05-23 at 1 45 01 PM" src="https://user-images.githubusercontent.com/36466103/169774840-9d3b9709-829d-44f7-8148-f3c00e112d38.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
